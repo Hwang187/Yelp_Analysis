@@ -10,8 +10,8 @@ This project is contributed by
 This project is aim to help restaurant owners to gain high ratings on Yelp.com by giving recommendations based on our analysis of review and business data of Yelp.
 
 The data processing and analysis workfolw are following:
-1. Las Vegas business excavated
-2. Related reviews and weather data excavated 
+1. Excavating Las Vegas business 
+2. Excavating Related reviews and weather data
 3. Data cleaning and preparation
 4. Business analysis(overviews analysis, stars trend analysis, location analysis, weather influence analysis, income influence analysis)
 5. Reviews analysis(TF_IDF, LDA, K_Means)
