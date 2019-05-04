@@ -1,9 +1,6 @@
 # Yelp_Analysis
 Project in CSP571
 
-# Yelp_Analysis
-Project in CSP571
-
 This project is aim to help restaurant owners to gain high ratings on Yelp.com by giving recommendations based on our analysis of review and business data of Yelp.
 
 The data processing and analysis workfolw are following:
