@@ -1,5 +1,5 @@
 
-# Mining Las Vegas from bussiness dataset
+# excavate Las Vegas from bussiness dataset
 CitySpecify <- function(path)
 {
   # Input original data
@@ -21,7 +21,7 @@ CitySpecify <- function(path)
   return(businessLVc)
 }
 
-# Mining restaurant from all business 
+# excavate restaurant from all business 
 restaurantSpecify = function(businessLVc)
 {
   # Drop features which contains big proportion of missing value
@@ -48,6 +48,7 @@ restaurantSpecify = function(businessLVc)
   return("Output successful")
 }
 
+# Checking missing value and make visualization
 missingMap <- function(businessLVc)
 {
   # Check missing value
