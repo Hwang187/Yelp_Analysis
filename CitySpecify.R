@@ -1,9 +1,3 @@
-# for importing json file into R
-install.packages('jsonlite')
-library('jsonlite')
-library(dplyr)
-library(ggplot2)
-path = "/Users/wanghan/Projects/Yelp/yelp_dataset/business.json"
 
 # Mining Las Vegas from bussiness dataset
 CitySpecify <- function(path)
