@@ -40,4 +40,7 @@ Detail of code:
 - Number_Topic.py: Determin topic number
 - K_Means.py: Apply K-means model				
 - LDA.py: Apply LAD model				
-- deployment: Deployment in rshiny
+
+Deployment Detail
+- app.R: Application of deployment
+- www: Contains all the required data and plot in deployment.
