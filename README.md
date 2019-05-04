@@ -2,10 +2,10 @@
 ## Project in CSP571
 
 This project is contributed by 
-- [Han Wang](hwang187@hawk.iit.edu)
-- [Shengnan Li](sli164@hawk.iit.edu)
-- [Yangbao Dong](ydong24@hawk.iit.edu)
-- [Yang He](yhe45@hawk.iit.edu)
+- Han Wang hwang187@hawk.iit.edu
+- Shengnan Li sli164@hawk.iit.edu
+- Yangbao Dong ydong24@hawk.iit.edu 
+- Yang He yhe45@hawk.iit.edu
 
 This project is aim to help restaurant owners to gain high ratings on Yelp.com by giving recommendations based on our analysis of review and business data of Yelp.
 
