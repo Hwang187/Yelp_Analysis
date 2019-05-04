@@ -7,21 +7,6 @@ import plotly
 import matplotlib.pyplot as plt
 import seaborn as sns
 import cufflinks as cf
-cf.go_offline()
-cf.set_config_file(offline=False, world_readable=True)
-plotly.tools.set_credentials_file(username='hwang187', api_key='V8Hq7eud9bzcax7nkOJB')
-
-# Demo Input
-category_restaturant = pd.read_excel('/Users/wanghan/Projects/Yelp/Modified_Data/category_restaturant.xlsx')
-LV_restaturant = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/LV_restaturant.csv')
-loc_R = LV_restaturant[['business_id','latitude','longitude','stars','review_count','categories']]
-reviews_pizza = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/Pizza_review.csv')
-reviews_chinese =  pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/chinese_review.csv')
-reviews_iltalian = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/Italian_review.csv')
-reviews_steak = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/Steakhouses_review.csv')
-reviews_AF = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/review_per_category/American_fast_food_review.csv')
-reviews_sea = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/review_per_category/Seafood_review.csv')
-reviews_deserrt = pd.read_csv('/Users/wanghan/Projects/Yelp/Modified_Data/review_per_category/Desserts_review.csv')
 
 # Order review data by time
 def review_process(df):
