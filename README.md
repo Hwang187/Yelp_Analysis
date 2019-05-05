@@ -32,7 +32,7 @@ In this project, we used:
 1. R 
 2. Python
 3. Spark
-4. rshiny
+4. Shiny
 
 ### Install
 To apply the project you need to:
