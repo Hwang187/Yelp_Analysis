@@ -42,7 +42,7 @@ To apply the project you need to:
 ### Code Description
 Detail of code:
 - CitySpecify.R: Excavate Las Vegas business data 
-- Missing_map.R: Checking misisng value and plot
+- Missing_map.R: Checking misisng value
 - LV_reviews_Mining.py: Excavate Las Vegas reviews with Spark
 - Reviews_byCategory.R: Classify reviews by category
 - Reviews_Data_Cleaning.py: Cleaning up reviews and create dictionary and bow_corpus.
