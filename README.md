@@ -13,7 +13,7 @@ This project is contributed by
 This project is aim to help restaurant owners to gain high ratings on Yelp.com by giving recommendations based on our analysis of review and business data of Yelp.
 
 ### WorkFlow
-The data processing and analysis workfolw are following:
+The data processing and analysis workflow are following:
 1. Excavating Las Vegas business 
 2. Excavating Related reviews and weather data
 3. Data cleaning and preparation
